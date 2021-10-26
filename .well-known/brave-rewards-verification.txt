@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: alvaroestebanherrera.github.io
+Token: a30226f1f77e7146891491fc1bc026adce270d5a9fb4df2c94740b94858e45e1
